@@ -5,7 +5,7 @@ metadata:
   labels:
     app: bgd
   name: bgd
-  namespace: platform-operations-test-argocd
+  namespace: bgd
 spec:
   host: "test-app-argocd.apps.os-pilot.finods.com"
   port:
